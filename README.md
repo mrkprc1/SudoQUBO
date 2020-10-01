@@ -1,0 +1,2 @@
+# SudoQUBO
+Sudoku solver
